@@ -9,12 +9,12 @@ The coordinate calibrations of the data deposited here are conducted using conve
 
 Photoemission spectra from the following materials are currently included,
 
-- WSe$_2$ (2H packing, bulk)
+- WSe<sub>2</sub> (2H packing, bulk)
 - ...
 
 ### Versioned releases
 
-The data archive will continuously be linked with a Zenodo data repository, where larger files ($\geqslant$ 100 MB) are stored. The Zenodo repository contains entire versioned datasets while the GitHub repository contains smaller files (for small scale demos) and more frequent updates.
+The data archive will continuously be linked with a Zenodo data repository, where larger files (than 100 MB) are stored. The Zenodo repository contains entire versioned datasets while the GitHub repository contains smaller files (for small scale demos) and more frequent updates.
 
 ### Related resources
 
